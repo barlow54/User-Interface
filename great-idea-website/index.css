@@ -1,0 +1,127 @@
+.main-nav-content {
+  width: 100%;
+  text-align: center;
+}
+.main-nav-content li {
+  display: inline-block;
+  margin: 40px 20px;
+}
+
+.main-nav-content ul {
+  display: inline-block;
+}
+
+.main-nav {
+  position: relative;
+}
+.main-nav-content img {
+  margin-left: 20px;
+  margin-bottom: -7px;
+}
+
+.main-nav-content a {
+  text-decoration: none;
+  color: black;
+}
+
+.main-header {
+  width: 70%;
+  margin: 70px auto 20px;
+  height: 45vh;
+  position: relative;
+}
+.main-header h1 {
+  display: inline-block;
+  font-size: 5rem;
+  text-align: center;
+  position: relative;
+}
+.main-header a {
+  display: block;
+  border: 1px solid black;
+  width: 180px;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  padding: 9px;
+  margin-left: 10%;
+}
+.main-header img {
+  width: 300px;
+  top: 0;
+  left: 60%;
+  margin-left: 10vw;
+}
+
+.main-content {
+  width: 80%;
+  margin: auto;
+  height: 20vh;
+}
+hr {
+  width: 80%;
+  margin: auto;
+  border: none;
+  border-bottom: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.main-content p {
+  max-width: 35vw;
+  display: inline-block;
+  color: #000;
+  font-weight: 300;
+}
+.main-content h1 {
+  font-size: 1.3rem;
+}
+
+.main-content-about-right {
+  float: right;
+}
+.main-content-about-left {
+  float: left;
+  margin-bottom: 50px;
+}
+
+/* services section */
+
+.services {
+  width: 80%;
+  margin: auto;
+  height: 30vh;
+}
+.services h1 {
+  font-size: 1.2rem;
+}
+.services p {
+  max-width: 25vw;
+}
+
+.services-left {
+  float: left;
+  margin-right: 0px;
+}
+.services-middle {
+  display: inline-block;
+}
+.services-right {
+  float: right;
+}
+
+footer {
+  width: 80%;
+  margin: auto;
+}
+footer address {
+  max-width: 200px;
+}
+footer a {
+  text-decoration: none;
+  color: black;
+}
+
+footer .copy {
+  width: 200px;
+  margin: 20px auto;
+}
